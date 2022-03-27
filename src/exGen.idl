@@ -1,0 +1,5 @@
+module exceptionGenerator {
+    interface Generator {
+        attribute string Generate;
+    };
+};
